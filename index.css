@@ -10,11 +10,6 @@ body {
     src: url(fonts/Outfit-VariableFont_wght.ttf);
 }
 
-.image {
-    text-align: center;
-}
-
-
 #equilibriumimage {
     width: 276px;
     border-radius: 10px;
@@ -73,5 +68,3 @@ body {
 .juleswyvernimage {
     margin-right: 10px;
 }
-
-
