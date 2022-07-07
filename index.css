@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    background: #0D192B;
+    color: #8BACDA;
+    font-family: Outfit;
+}
+
+@font-face {
+    font-family: Outfit;
+    src: url(fonts/Outfit-VariableFont_wght.ttf);
+}
+
+.image {
+    text-align: center;
+}
+
+
+#equilibriumimage {
+    width: 276px;
+    border-radius: 10px;
+}
+
+.card {
+    border-radius: 30px;
+    width: fit-content;
+    height: fit-content;
+    background: #14253D;
+    box-shadow: 5px 5px 5px black;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 20px;
+}
+
+
+#juleswyvernname {
+    color: white;
+}
+
+#juleswyvernicon {
+    height: 39px;
+    width: 38px;
+    border: solid 1px white;
+    border-radius: 30px;
+}
+
+.title {
+    color: white;
+}
+
+#ethereumtext {
+    color: #00FFF6;
+}
+
+.paragraph {
+    font-size: 18px;
+}
+
+.priceanddays {
+    display: flex;
+    border-bottom: solid #2F415B 1px;
+    justify-content: space-between;
+}
+
+.createdby {
+    display: flex;
+    margin-top: 10px;
+}
+
+.juleswyvernimage {
+    margin-right: 10px;
+}
+
+
